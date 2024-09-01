@@ -1,2 +1,2 @@
 # pythonspacegame
-A practice game made with pygame
+A practice two player game made with pygame library
